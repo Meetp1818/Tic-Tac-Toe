@@ -32,7 +32,7 @@ button {
 }
 
 .board {
-  width: 313px;
+  width: 320px;
   height: 300px;
   display: flex;
   flex-wrap: wrap;
